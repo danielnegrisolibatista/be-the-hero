@@ -1,0 +1,26 @@
+.logo-container {
+  width: 100%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto; /*conteudo centralizado*/
+
+  display: flex; /*itens alinhados um ao lado do outro*/
+  align-items: center; /*alinhamento ao centro verticalmente*/
+  justify-content: space-between; /*center: linhamento ao centro horizontalmente, space-between: adiciona um espaço entre os itens*/
+}
+
+.logo-container section.form {
+  width: 100%;
+  max-width:  350px;
+  margin-right: 30px;
+}
+
+.logo-container section.form form {
+  margin-top: 100px;
+}
+
+.logo-container section.form form h1 {
+  font-size: 32px;
+  margin-bottom: 32px;
+}
+
