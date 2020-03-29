@@ -38,7 +38,7 @@ Esse projeto foi desenvolvimento durante a Semana OmniStack 11.0, um evento da @
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
 		<td>
-			<img width="618" src="be-the-hero">
+			<img width="618" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/splashScreen.jpg">
 		</td>
 		<td>
 			<img width="618" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/incidentList.jpg">
